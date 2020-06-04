@@ -1,0 +1,442 @@
+Script started on 2020-06-02 02:53:16-0400
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ typescript
+typescript: command not found
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ bash | tre[K[Kee log.txt
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ clear
+[3J[H[2J]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ clearnpm run dev-peerclear[Knpm run dev-peerclear[Knpm run dev-peer[K[6Pclearnpm run devcd Blockchain3sudo apt install git-allclear[Knpm run dev-peerclear[Knpm run dev-peerclear[Kpkill -f node[8Pclearnpm run dev-peerclear[Knpm run dev-peerclear[Ksudo apt install git-all[10Pcd Blockchain3[3Pnpm run dev[6Pclearnpm run dev-peerclear[Knpm run dev-peerclear[Knpm run dev-peerclear[K[Kclearnpm run dev-peerclear[Knpm run dev-peerclear[Knpm run dev-peer[K[6Pclearnpm run devcd Blockchain3sudo apt install git-allclear[Knpm run dev-peerclear[Knpm run dev-peerclear[Kpkill -f nodenpm run dev-peer[K[K[5Pclearnpm run dev[6Pclearpkill -f node[2Pnpm run devcd Blockchain3[3Pnpm run devcd Blockchain3[Knpm run dev-peer[Kcd Blockchain3express --version[K[1Pvnpm run dev-peerclear[Knpm run dev-peer[3Ppkill -f node[2Pnpm run dev[6Pclearnpm run dev[6Pclearnpm run dev[6Pclearwhispering-sierra-38680
+clearwhispering-sierra-38680: command not found
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ clearwhispering-sierra-38680[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kheroku addons:create heroku-redis:hobby-dev -a whispering-sieerra-38680
+
+[G[2K[?25lCreating heroku-redis:hobby-dev on whispering-sierra-38680... ⣾ 
+[1A[62C⣽[1B[G[2K[1A[62C⣻[1B[G[2K[1A[62C⢿[1B[G[2K[1A[62C⡿[1B[G[2K[1A[62C⣟[1B[G[2K[1A[62C⣯[1B[G[2K[1A[62C⣷[1B[G[2K[1A[62C⣾[1B[G[2K[1A[62C⣽[1B[G[2K[1A[62C⣻[1B[G[2K[1A[62C⢿[1B[G[2K[1A[62C⡿[1B[G[2K[1A[62C⣟[1B[G[2K[1A[62C⣯[1B[G[2K[1A[62C⣷[1B[G[2K[1A[62C⣾[1B[G[2K[1A[62C⣽[1B[G[2K[1A[62C⣻[1B[G[2K[1A[62C⢿[1B[G[2K[1A[62C⡿[1B[G[2K[1A[62C⣟[1B[G[2K[1A[62C⣯[1B[G[2K[1A[62C⣷[1B[G[2K[1A[62C⣾[1B[G[2K[1A[62C⣽[1B[G[2K[1A[62C⣻[1B[G[2K[1A[62C⢿[1B[G[2K[1A[62C⡿[1B[G[2K[1A[62C⣟[1B[G[2K[1A[62C⣯[1B[G[2K[1A[62C⣷[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on whispering-sierra-38680... !
+[?25h ▸    Please verify your account to install this add-on plan (please enter a credit card)
+ ▸    For more information, see https://devcenter.heroku.com/categories/billing Verify
+ ▸    now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ 
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku
+CLI to interact with Heroku
+
+VERSION
+  heroku/7.41.1 linux-x64 node-v12.16.2
+
+USAGE
+  $ heroku [COMMAND]
+
+COMMANDS
+  access          manage user access to apps
+  addons          tools and services for developing, extending, and operating
+                  your app
+  apps            manage apps on Heroku
+  auth            check 2fa status
+  authorizations  OAuth authorizations
+  autocomplete    display autocomplete installation instructions
+  buildpacks      scripts used to compile apps
+  certs           a topic for the ssl plugin
+  ci              run an application test suite on Heroku
+  clients         OAuth clients on the platform
+  config          environment variables of apps
+  container       Use containers to build and deploy Heroku apps
+  domains         custom domains for apps
+  drains          forward logs to syslog or HTTPS
+  features        add/remove app features
+  git             manage local git repository for app
+  help            display help for heroku
+  keys            add/remove account ssh keys
+  labs            add/remove experimental features
+  local           run Heroku app locally
+  logs            display recent log output
+  maintenance     enable/disable access to app
+  members         manage organization members
+  notifications   display notifications
+  orgs            manage organizations
+  pg              manage postgresql databases
+  pipelines       manage pipelines
+  plugins         list installed plugins
+  ps              Client tools for Heroku Exec
+  psql            open a psql shell to the database
+  redis           manage heroku redis instances
+  regions         list available regions for deployment
+  releases        display the releases for an app
+  reviewapps      manage reviewapps in pipelines
+  run             run a one-off process inside a Heroku dyno
+  sessions        OAuth sessions
+  spaces          manage heroku private spaces
+  status          status of the Heroku platform
+  teams           manage teams
+  update          update the Heroku CLI
+  webhooks        list webhooks on an app
+
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ ^C
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a whispering-sieerra-38680[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[Kdesolate-cast le-36762[K[A]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castlee-36762[K[A]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-367762[K[A]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762 [K[A]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[K]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762
+[G[2K[?25lCreating heroku-redis:hobby-dev on desolate-castle-36762... ⣾ 
+[1A[60C⣽[1B[G[2K[1A[60C⣻[1B[G[2K[1A[60C⢿[1B[G[2K[1A[60C⡿[1B[G[2K[1A[60C⣟[1B[G[2K[1A[60C⣯[1B[G[2K[1A[60C⣷[1B[G[2K[1A[60C⣾[1B[G[2K[1A[60C⣽[1B[G[2K[1A[60C⣻[1B[G[2K[1A[60C⢿[1B[G[2K[1A[60C⡿[1B[G[2K[1A[60C⣟[1B[G[2K[1A[60C⣯[1B[G[2K[1A[60C⣷[1B[G[2K[1A[60C⣾[1B[G[2K[1A[60C⣽[1B[G[2K[1A[60C⣻[1B[G[2K[1A[60C⢿[1B[G[2K[1A[60C⡿[1B[G[2K[1A[60C⣟[1B[G[2K[1A[60C⣯[1B[G[2K[1A[60C⣷[1B[G[2K[1A[60C⣾[1B[G[2K[1A[60C⣽[1B[G[2K[1A[60C⣻[1B[G[2K[1A[60C⢿[1B[G[2K[1A[60C⡿[1B[G[2K[1A[60C⣟[1B[G[2K[1A[60C⣯[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on desolate-castle-36762... !
+[?25h ▸    Please verify your account to install this add-on plan (please enter a credit card) For more information, see
+ ▸    https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a desolate-castle-36762[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K addons:create heroku-redis:hobby-dev -a whispering-sierra-38680[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[42Pclearwhispering-sierra-38680[Knpm run dev-peerclear[Knpm run dev-peerclear[Knpm run dev-peer[K[6Pclearnpm run devcd Blockchain3sudo apt install git-allclear[Ksudo apt install git-all[10Pcd Blockchain3[3Pnpm run dev[6Pclearnpm run dev-peerclear[Knpm run dev-peerclear[Knpm run dev-peerclear[Kwhispering-sierra-38680heroku addons:create heroku-redis:hobby-dev -a whispering-sierra-38680[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K create
+[G[2K[?25lCreating app... ⣾ 
+[1A[16C⣽[1B[G[2K[1A[16C⣻[1B[G[2K[1A[16C⢿[1B[G[2K[1A[16C⡿[1B[G[2K[1A[16C⣟[1B[G[2K[1A[16C⣯[1B[G[2K[1A[16C⣷[1B[G[2K[1A[16C⣾[1B[G[2K[1A[16C⣽[1B[G[2K[1A[16C⣻[1B[G[2K[1A[16C⢿[1B[G[2K[1A[16C⡿[1B[G[2K[1A[16C⣟[1B[G[2K[1A[16C⣯[1B[G[2K[1A[16C⣷[1B[G[2K[1A[16C⣾[1B[G[2K[1A[16C⣽[1B[G[2K[1A[16C⣻[1B[G[2K[1A[16C⢿[1B[G[2K[1A[16C⡿[1B[G[2K[1A[16C⣟[1B[G[2K[1A[16C⣯[1B[G[2K[1A[16C⣷[1B[G[2K[1A[16C⣾[1B[G[2K[1A[16C⣽[1B[G[2K[1A[JCreating app... done, rocky-dusk-60204
+[?25h[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:crerate[K[K[K[Kate heroku-redis:hobby-dev -a thainh[Kg[K[K[Kwing[K[K[K[K[K[K[K[K rocky-dusk-60204
+[G[2K[?25lCreating heroku-redis:hobby-dev on rocky-dusk-60204... ⣾ 
+[1A[55C⣽[1B[G[2K[1A[55C⣻[1B[G[2K[1A[55C⢿[1B[G[2K[1A[55C⡿[1B[G[2K[1A[55C⣟[1B[G[2K[1A[55C⣯[1B[G[2K[1A[55C⣷[1B[G[2K[1A[55C⣾[1B[G[2K[1A[55C⣽[1B[G[2K[1A[55C⣻[1B[G[2K[1A[55C⢿[1B[G[2K[1A[55C⡿[1B[G[2K[1A[55C⣟[1B[G[2K[1A[55C⣯[1B[G[2K[1A[55C⣷[1B[G[2K[1A[55C⣾[1B[G[2K[1A[55C⣽[1B[G[2K[1A[55C⣻[1B[G[2K[1A[55C⢿[1B[G[2K[1A[55C⡿[1B[G[2K[1A[55C⣟[1B[G[2K[1A[55C⣯[1B[G[2K[1A[55C⣷[1B[G[2K[1A[55C⣾[1B[G[2K[1A[55C⣽[1B[G[2K[1A[55C⣻[1B[G[2K[1A[55C⢿[1B[G[2K[1A[55C⡿[1B[G[2K[1A[55C⣟[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on rocky-dusk-60204... !
+[?25h ▸    Please verify your account to install this add-on plan (please enter a credit card) For more information, see
+ ▸    https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:info redis-round
+ ▸    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:info redis-round[K[K[K[K[K[K
+ ▸    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ ~hroku a[K[K[K[K[K[Kheroku addons:info redis[K[K[K[K[K[K[K[K[K[K[K
+ ▸    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons | grep heroku-redis
+ ▸    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons | grep heroku-redis[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+^C]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev
+[G[2K[?25lCreating heroku-redis:hobby-dev on [38;5;104m⬢ desolate-castle-36762[0m... [38;5;104m⣾[0m 
+[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[62C[38;5;104m⣾[0m[1B[G[2K[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[62C[38;5;104m⣾[0m[1B[G[2K[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[62C[38;5;104m⣾[0m[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on [38;5;104m⬢ desolate-castle-36762[0m... [31m[1m![22m[39m
+[?25h [31m▸[39m    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -A[K [Ka rocky-dusk-60204
+[G[2K[?25lCreating heroku-redis:hobby-dev on [38;5;104m⬢ rocky-dusk-60204[0m... [38;5;104m⣾[0m 
+[1A[57C[38;5;104m⣽[0m[1B[G[2K[1A[57C[38;5;104m⣻[0m[1B[G[2K[1A[57C[38;5;104m⢿[0m[1B[G[2K[1A[57C[38;5;104m⡿[0m[1B[G[2K[1A[57C[38;5;104m⣟[0m[1B[G[2K[1A[57C[38;5;104m⣯[0m[1B[G[2K[1A[57C[38;5;104m⣷[0m[1B[G[2K[1A[57C[38;5;104m⣾[0m[1B[G[2K[1A[57C[38;5;104m⣽[0m[1B[G[2K[1A[57C[38;5;104m⣻[0m[1B[G[2K[1A[57C[38;5;104m⢿[0m[1B[G[2K[1A[57C[38;5;104m⡿[0m[1B[G[2K[1A[57C[38;5;104m⣟[0m[1B[G[2K[1A[57C[38;5;104m⣯[0m[1B[G[2K[1A[57C[38;5;104m⣷[0m[1B[G[2K[1A[57C[38;5;104m⣾[0m[1B[G[2K[1A[57C[38;5;104m⣽[0m[1B[G[2K[1A[57C[38;5;104m⣻[0m[1B[G[2K[1A[57C[38;5;104m⢿[0m[1B[G[2K[1A[57C[38;5;104m⡿[0m[1B[G[2K[1A[57C[38;5;104m⣟[0m[1B[G[2K[1A[57C[38;5;104m⣯[0m[1B[G[2K[1A[57C[38;5;104m⣷[0m[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on [38;5;104m⬢ rocky-dusk-60204[0m... [31m[1m![22m[39m
+[?25h [31m▸[39m    Please verify your account to install this add-on plan (please enter a credit card) For more information, see
+ [31m▸[39m    https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a rocky-dusk-60204[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[25Pbash | tee log.txt[8Ptypescriptnpm run dev-peerclear[Knpm run dev-peerclear[Knpm run dev-peer[K[6Pclear
+[3J[H[2J]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ clearheroku addons:create heroku-redis:hobby-dev -a rocky-dusk-60204
+[G[2K[?25lCreating heroku-redis:hobby-dev on [38;5;104m⬢ rocky-dusk-60204[0m... [38;5;104m⣾[0m 
+[1A[57C[38;5;104m⣽[0m[1B[G[2K[1A[57C[38;5;104m⣻[0m[1B[G[2K[1A[57C[38;5;104m⢿[0m[1B[G[2K[1A[57C[38;5;104m⡿[0m[1B[G[2K[1A[57C[38;5;104m⣟[0m[1B[G[2K[1A[57C[38;5;104m⣯[0m[1B[G[2K[1A[57C[38;5;104m⣷[0m[1B[G[2K[1A[57C[38;5;104m⣾[0m[1B[G[2K[1A[57C[38;5;104m⣽[0m[1B[G[2K[1A[57C[38;5;104m⣻[0m[1B[G[2K[1A[57C[38;5;104m⢿[0m[1B[G[2K[1A[57C[38;5;104m⡿[0m[1B[G[2K[1A[57C[38;5;104m⣟[0m[1B[G[2K[1A[57C[38;5;104m⣯[0m[1B[G[2K[1A[57C[38;5;104m⣷[0m[1B[G[2K[1A[57C[38;5;104m⣾[0m[1B[G[2K[1A[57C[38;5;104m⣽[0m[1B[G[2K[1A[57C[38;5;104m⣻[0m[1B[G[2K[1A[57C[38;5;104m⢿[0m[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on [38;5;104m⬢ rocky-dusk-60204[0m... [31m[1m![22m[39m
+[?25h [31m▸[39m    Please verify your account to install this add-on plan (please enter a credit card) For more information, see
+ [31m▸[39m    https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ ^C
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a rocky-dusk-60204[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kheroku addons:create heroku-redis:hobby-dev -a rocky-dusk-60204[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfeatures
+ [31m▸[39m    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ clear
+[3J[H[2J]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku login
+heroku: Press any key to open up the browser to login or [33mq[39m to exit: 
+Opening browser to https://cli-auth.heroku.com/auth/cli/browser/6818e4d9-536a-4d94-bb5f-2546e585f938
+heroku: Waiting for login...
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[JLogging in...
+[G[1A[JLogging in... [38;5;104m⣻[0m
+[G[1A[JLogging in... [38;5;104m⢿[0m
+[G[1A[JLogging in... [38;5;104m⡿[0m
+[G[1A[JLogging in... [38;5;104m⣟[0m
+[G[1A[JLogging in... [38;5;104m⣯[0m
+[G[1A[JLogging in... [38;5;104m⣷[0m
+[G[1A[JLogging in... [38;5;104m⣾[0m
+[G[1A[JLogging in... [38;5;104m⣽[0m
+[G[1A[JLogging in... [38;5;104m⣻[0m
+[G[1A[JLogging in... [38;5;104m⢿[0m
+[G[1A[JLogging in... [38;5;104m⡿[0m
+[G[1A[JLogging in... done
+Logged in as [32msandyman283@gmail.com[39m
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku create
+[G[2K[?25lCreating app... [38;5;104m⣾[0m 
+[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[16C[38;5;104m⡿[0m[1B[G[2K[1A[16C[38;5;104m⣟[0m[1B[G[2K[1A[16C[38;5;104m⣯[0m[1B[G[2K[1A[16C[38;5;104m⣷[0m[1B[G[2K[1A[16C[38;5;104m⣾[0m[1B[G[2K[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[16C[38;5;104m⡿[0m[1B[G[2K[1A[16C[38;5;104m⣟[0m[1B[G[2K[1A[16C[38;5;104m⣯[0m[1B[G[2K[1A[16C[38;5;104m⣷[0m[1B[G[2K[1A[16C[38;5;104m⣾[0m[1B[G[2K[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[16C[38;5;104m⡿[0m[1B[G[2K[1A[16C[38;5;104m⣟[0m[1B[G[2K[1A[16C[38;5;104m⣯[0m[1B[G[2K[1A[JCreating app... done, [38;5;104m⬢ afternoon-crag-72153[0m
+[?25h[36mhttps://afternoon-crag-72153.herokuapp.com/[39m | [32mhttps://git.heroku.com/afternoon-crag-72153.git[39m
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:if[Knfo[K[K[K[Kcreate heroku-redis:hobby-dev -a heroku addons[K[K[K[K[K[K[K[K[K[K[K[K[Kafternoon-crag-72153
+[G[2K[?25lCreating heroku-redis:hobby-dev on [38;5;104m⬢ afternoon-crag-72153[0m... [38;5;104m⣾[0m 
+[1A[61C[38;5;104m⣽[0m[1B[G[2K[1A[61C[38;5;104m⣻[0m[1B[G[2K[1A[61C[38;5;104m⢿[0m[1B[G[2K[1A[61C[38;5;104m⡿[0m[1B[G[2K[1A[61C[38;5;104m⣟[0m[1B[G[2K[1A[61C[38;5;104m⣯[0m[1B[G[2K[1A[61C[38;5;104m⣷[0m[1B[G[2K[1A[61C[38;5;104m⣾[0m[1B[G[2K[1A[61C[38;5;104m⣽[0m[1B[G[2K[1A[61C[38;5;104m⣻[0m[1B[G[2K[1A[61C[38;5;104m⢿[0m[1B[G[2K[1A[61C[38;5;104m⡿[0m[1B[G[2K[1A[61C[38;5;104m⣟[0m[1B[G[2K[1A[61C[38;5;104m⣯[0m[1B[G[2K[1A[61C[38;5;104m⣷[0m[1B[G[2K[1A[61C[38;5;104m⣾[0m[1B[G[2K[1A[61C[38;5;104m⣽[0m[1B[G[2K[1A[61C[38;5;104m⣻[0m[1B[G[2K[1A[61C[38;5;104m⢿[0m[1B[G[2K[1A[61C[38;5;104m⡿[0m[1B[G[2K[1A[61C[38;5;104m⣟[0m[1B[G[2K[1A[61C[38;5;104m⣯[0m[1B[G[2K[1A[61C[38;5;104m⣷[0m[1B[G[2K[1A[61C[38;5;104m⣾[0m[1B[G[2K[1A[61C[38;5;104m⣽[0m[1B[G[2K[1A[61C[38;5;104m⣻[0m[1B[G[2K[1A[61C[38;5;104m⢿[0m[1B[G[2K[1A[61C[38;5;104m⡿[0m[1B[G[2K[1A[61C[38;5;104m⣟[0m[1B[G[2K[1A[61C[38;5;104m⣯[0m[1B[G[2K[1A[61C[38;5;104m⣷[0m[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on [38;5;104m⬢ afternoon-crag-72153[0m... [31m[1m![22m[39m
+[?25h [31m▸[39m    Please verify your account to install this add-on plan (please enter a credit card) For more information, see
+ [31m▸[39m    https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ clear
+[3J[H[2J]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku login
+heroku: Press any key to open up the browser to login or [33mq[39m to exit: 
+Opening browser to https://cli-auth.heroku.com/auth/cli/browser/3e10af3e-767a-43e9-bc0d-e1157bca7377
+heroku: Waiting for login...
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣻[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⢿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⡿[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣟[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣯[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣷[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣾[0m
+[G[1A[Jheroku: Waiting for login... [38;5;104m⣽[0m
+[G[1A[JLogging in...
+[G[1A[JLogging in... [38;5;104m⣻[0m
+[G[1A[JLogging in... [38;5;104m⢿[0m
+[G[1A[JLogging in... [38;5;104m⡿[0m
+[G[1A[JLogging in... [38;5;104m⣟[0m
+[G[1A[JLogging in... [38;5;104m⣯[0m
+[G[1A[JLogging in... [38;5;104m⣷[0m
+[G[1A[JLogging in... [38;5;104m⣾[0m
+[G[1A[JLogging in... [38;5;104m⣽[0m
+[G[1A[JLogging in... [38;5;104m⣻[0m
+[G[1A[JLogging in... [38;5;104m⢿[0m
+[G[1A[JLogging in... [38;5;104m⡿[0m
+[G[1A[JLogging in... [38;5;104m⣟[0m
+[G[1A[JLogging in... [38;5;104m⣯[0m
+[G[1A[JLogging in... [38;5;104m⣷[0m
+[G[1A[JLogging in... [38;5;104m⣾[0m
+[G[1A[JLogging in... [38;5;104m⣽[0m
+[G[1A[JLogging in... [38;5;104m⣻[0m
+[G[1A[JLogging in... [38;5;104m⢿[0m
+[G[1A[JLogging in... [38;5;104m⡿[0m
+[G[1A[JLogging in... [38;5;104m⣟[0m
+[G[1A[JLogging in... [38;5;104m⣯[0m
+[G[1A[JLogging in... [38;5;104m⣷[0m
+[G[1A[JLogging in... done
+Logged in as [32msandyman2833@gmail.com[39m
+]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku create
+[G[2K[?25lCreating app... [38;5;104m⣾[0m 
+[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[16C[38;5;104m⡿[0m[1B[G[2K[1A[16C[38;5;104m⣟[0m[1B[G[2K[1A[16C[38;5;104m⣯[0m[1B[G[2K[1A[16C[38;5;104m⣷[0m[1B[G[2K[1A[16C[38;5;104m⣾[0m[1B[G[2K[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[16C[38;5;104m⡿[0m[1B[G[2K[1A[16C[38;5;104m⣟[0m[1B[G[2K[1A[16C[38;5;104m⣯[0m[1B[G[2K[1A[16C[38;5;104m⣷[0m[1B[G[2K[1A[16C[38;5;104m⣾[0m[1B[G[2K[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[16C[38;5;104m⡿[0m[1B[G[2K[1A[16C[38;5;104m⣟[0m[1B[G[2K[1A[16C[38;5;104m⣯[0m[1B[G[2K[1A[16C[38;5;104m⣷[0m[1B[G[2K[1A[16C[38;5;104m⣾[0m[1B[G[2K[1A[16C[38;5;104m⣽[0m[1B[G[2K[1A[16C[38;5;104m⣻[0m[1B[G[2K[1A[16C[38;5;104m⢿[0m[1B[G[2K[1A[JCreating app... done, [38;5;104m⬢ whispering-everglades-05745[0m
+[?25h[36mhttps://whispering-everglades-05745.herokuapp.com/[39m | [32mhttps://git.heroku.com/whispering-everglades-05745.git[39m
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku create[1Plogin[7Pclearheroku addons:create heroku-redis:hobby-dev -a afternoon-crag-72153[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwhispering-everglades-05745
+[G[2K[?25lCreating heroku-redis:hobby-dev on [38;5;104m⬢ whispering-everglades-05745[0m... [38;5;104m⣾[0m 
+[1A[68C[38;5;104m⣽[0m[1B[G[2K[1A[68C[38;5;104m⣻[0m[1B[G[2K[1A[68C[38;5;104m⢿[0m[1B[G[2K[1A[68C[38;5;104m⡿[0m[1B[G[2K[1A[68C[38;5;104m⣟[0m[1B[G[2K[1A[68C[38;5;104m⣯[0m[1B[G[2K[1A[68C[38;5;104m⣷[0m[1B[G[2K[1A[68C[38;5;104m⣾[0m[1B[G[2K[1A[68C[38;5;104m⣽[0m[1B[G[2K[1A[68C[38;5;104m⣻[0m[1B[G[2K[1A[68C[38;5;104m⢿[0m[1B[G[2K[1A[68C[38;5;104m⡿[0m[1B[G[2K[1A[68C[38;5;104m⣟[0m[1B[G[2K[1A[68C[38;5;104m⣯[0m[1B[G[2K[1A[68C[38;5;104m⣷[0m[1B[G[2K[1A[68C[38;5;104m⣾[0m[1B[G[2K[1A[68C[38;5;104m⣽[0m[1B[G[2K[1A[68C[38;5;104m⣻[0m[1B[G[2K[1A[68C[38;5;104m⢿[0m[1B[G[2K[1A[68C[38;5;104m⡿[0m[1B[G[2K[1A[68C[38;5;104m⣟[0m[1B[G[2K[1A[68C[38;5;104m⣯[0m[1B[G[2K[1A[68C[38;5;104m⣷[0m[1B[G[2K[1A[68C[38;5;104m⣾[0m[1B[G[2K[1A[68C[38;5;104m⣽[0m[1B[G[2K[1A[68C[38;5;104m⣻[0m[1B[G[2K[1A[68C[38;5;104m⢿[0m[1B[G[2K[1A[68C[38;5;104m⡿[0m[1B[G[2K[1A[68C[38;5;104m⣟[0m[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on [38;5;104m⬢ whispering-everglades-05745[0m... [31m[1m![22m[39m
+[?25h [31m▸[39m    Please verify your account to install this add-on plan (please enter a credit card) For more information, see
+ [31m▸[39m    https://devcenter.heroku.com/categories/billing Verify now at https://heroku.com/verify
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ heroku addons:create heroku-redis:hobby-dev -a whispering-everglades-05745[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[G[2K[?25lCreating heroku-redis:hobby-dev on [38;5;104m⬢ desolate-castle-36762[0m... [38;5;104m⣾[0m 
+[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[62C[38;5;104m⣾[0m[1B[G[2K[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[62C[38;5;104m⣾[0m[1B[G[2K[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[62C[38;5;104m⣾[0m[1B[G[2K[1A[62C[38;5;104m⣽[0m[1B[G[2K[1A[62C[38;5;104m⣻[0m[1B[G[2K[1A[62C[38;5;104m⢿[0m[1B[G[2K[1A[62C[38;5;104m⡿[0m[1B[G[2K[1A[62C[38;5;104m⣟[0m[1B[G[2K[1A[62C[38;5;104m⣯[0m[1B[G[2K[1A[62C[38;5;104m⣷[0m[1B[G[2K[1A[JCreating heroku-redis:hobby-dev on [38;5;104m⬢ desolate-castle-36762[0m... [31m[1m![22m[39m
+[?25h [31m▸[39m    Couldn't find that app.
+[?25h]0;ajay@sidralin: ~/Blockchain3[01;32majay@sidralin[00m:[01;34m~/Blockchain3[00m$ exit
