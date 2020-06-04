@@ -10,7 +10,7 @@ class PubSub {
 	constructor( { blockchain , transactionPool, redisUrl } ) {
 		this.blockchain = blockchain;
 		this.transactionPool = transactionPool;
-		this.wallet = wallet;
+		//this.wallet = wallet;
 
 
 		this.publisher = redis.createClient(redisUrl);
@@ -38,14 +38,16 @@ class PubSub {
 				break;
 
 			case CHANNELS.TRANSACTION:
-				if( !this.transactionPool.existingTransaction({
-					inputAddress: this.wallet.publicKey
-				})) {
-					this.transactionPool.setTransaction(parsedMessage);					
-				}
+				// if( !this.transactionPool.existingTransaction({
+				// 	inputAddress: this.wallet.publicKey
+				// })) {
+				// 	this.transactionPool.setTransaction(parsedMessage);					
+				// }
 
+				// this.transactionPool.setTransaction(parsedMessage);
+				// break;
 				this.transactionPool.setTransaction(parsedMessage);
-				break;
+       			 break;
 
 			default: 
 				return ;
